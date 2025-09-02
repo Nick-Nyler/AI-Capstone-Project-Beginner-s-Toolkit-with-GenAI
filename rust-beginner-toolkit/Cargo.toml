@@ -1,0 +1,8 @@
+[package]
+name = "rust-beginner-toolkit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# No external dependencies for this beginner example
+# We'll use only standard library features
